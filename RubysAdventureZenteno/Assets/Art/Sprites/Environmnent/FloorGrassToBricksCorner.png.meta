@@ -62,7 +62,7 @@ TextureImporter:
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
-  applyGammaDecoding: 1
+  applyGammaDecoding: 0
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -87,7 +87,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Server
     maxTextureSize: 2048
@@ -99,7 +99,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
     maxTextureSize: 2048
@@ -111,7 +111,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: iPhone
     maxTextureSize: 2048
@@ -123,7 +123,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
     maxTextureSize: 2048
@@ -135,7 +135,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Windows Store Apps
     maxTextureSize: 2048
@@ -147,7 +147,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: tvOS
     maxTextureSize: 2048
@@ -159,7 +159,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -172,14 +172,14 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2398a161bd0c5f74d992dec09368fd75
-      internalID: -900849607
+      spriteID: 836eb765ba2f8b44fa89df21c0d0e0d1
+      internalID: 188679572
       vertices: []
       indices: 
       edges: []
@@ -193,14 +193,14 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3ff5078b34e01404980c904f9efcfdd0
-      internalID: 1936477632
+      spriteID: 02241305f29b21c40a5ccd60a4f6a9b0
+      internalID: 662486221
       vertices: []
       indices: 
       edges: []
@@ -214,14 +214,14 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e48859dd4cb589b4280c4f0c5925d41a
-      internalID: -2105214211
+      spriteID: 70a71979389b04443a34fb89c8532f73
+      internalID: -1177001965
       vertices: []
       indices: 
       edges: []
@@ -235,14 +235,14 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c395eaae358e14b41a4605ef9df11e63
-      internalID: 1573858195
+      spriteID: 7d9c46ec1eb8df14e9cee034322192aa
+      internalID: 1627127503
       vertices: []
       indices: 
       edges: []
@@ -256,14 +256,14 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 76b1bbfe25f5bb2478551632aafcd2d3
-      internalID: 797926144
+      spriteID: 4b0c2d0620239cb4ea61f24dfd1aed36
+      internalID: -636457569
       vertices: []
       indices: 
       edges: []
@@ -273,18 +273,18 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 128
-        y: 63
+        y: 64
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 693eca53fe71a034aa9b0d4c10f6c280
-      internalID: -316555478
+      spriteID: 1dd9374f4093a4d429c96bc606333165
+      internalID: 1560487819
       vertices: []
       indices: 
       edges: []
@@ -298,14 +298,14 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bb9840e7b2eb87c43ab9a1b3ab734f98
-      internalID: 1402820865
+      spriteID: 8de3df741a93f7140a119a8655a6d1ab
+      internalID: 1608586164
       vertices: []
       indices: 
       edges: []
@@ -319,14 +319,14 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9bab5b7b63285c8429eedff0bd0e2e72
-      internalID: -999738822
+      spriteID: 742640f482f3bf246b983d791f1a1efd
+      internalID: 1178743132
       vertices: []
       indices: 
       edges: []
@@ -335,82 +335,19 @@ TextureImporter:
       name: FloorGrassToBricksCorner_8
       rect:
         serializedVersion: 2
-        x: 0
-        y: 128
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 917ebddec1d59e6458c01bf2048bee67
-      internalID: 386246720
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FloorGrassToBricksCorner_9
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 128
-        width: 64
-        height: 64
-      alignment: 9
-      pivot: {x: 0.49664855, y: 0.5032275}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 68d2b202d3c450f44a7576b63c85b902
-      internalID: 1577384340
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FloorGrassToBricksCorner_10
-      rect:
-        serializedVersion: 2
-        x: 0
+        x: 128
         y: 0
-        width: 192
-        height: 192
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 18a05cf8436505941918cdd7ca33e828
-      internalID: -514963256
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FloorGrassToBricksCorner_11
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 2
-        width: 192
-        height: 190
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 94a33010fa673e24ba6689dbc4a6c4e2
-      internalID: -1786582295
+      spriteID: 640c76c9c72d099458c4aecbf1b1ab46
+      internalID: -712800996
       vertices: []
       indices: 
       edges: []
@@ -418,7 +355,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: aa45cc05fd1dd8a429622741b005adb6
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -426,18 +363,15 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      FloorGrassToBricksCorner_6: 1402820865
-      FloorGrassToBricksCorner_0: -900849607
-      FloorGrassToBricksCorner_4: 797926144
-      FloorGrassToBricksCorner_9: 1577384340
-      FloorGrassToBricksCorner_3: 1573858195
-      FloorGrassToBricksCorner_2: -2105214211
-      FloorGrassToBricksCorner_10: -514963256
-      FloorGrassToBricksCorner_7: -999738822
-      FloorGrassToBricksCorner_1: 1936477632
-      FloorGrassToBricksCorner_11: -1786582295
-      FloorGrassToBricksCorner_5: -316555478
-      FloorGrassToBricksCorner_8: 386246720
+      FloorGrassToBricksCorner_6: 1608586164
+      FloorGrassToBricksCorner_0: 188679572
+      FloorGrassToBricksCorner_4: -636457569
+      FloorGrassToBricksCorner_3: 1627127503
+      FloorGrassToBricksCorner_2: -1177001965
+      FloorGrassToBricksCorner_7: 1178743132
+      FloorGrassToBricksCorner_1: 662486221
+      FloorGrassToBricksCorner_5: 1560487819
+      FloorGrassToBricksCorner_8: -712800996
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
