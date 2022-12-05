@@ -8,13 +8,12 @@ public class RubyController : MonoBehaviour
 
     public int maxHealth = 5;
 
-    public float timeInvincible = 2.0f;
-
     public GameObject projectilePrefab;
 
     public int health { get { return currentHealth; }}
     int currentHealth;
 
+    public float timeInvincible = 2.0f;
     bool isInvincible;
     float invincibleTimer;
 
@@ -40,6 +39,7 @@ public class RubyController : MonoBehaviour
         //Creating the two variables that use the pre built axes
         horizontal = Input.GetAxis("Horizontal");
         vertical = Input.GetAxis("Vertical");
+
         Vector2 move = new Vector2(horizontal, vertical);
 
         if(!Mathf.Approximately(move.x, 0.0f) || !Mathf.Approximately(move.y, 0.0f))
@@ -73,7 +73,6 @@ public class RubyController : MonoBehaviour
         //changing the x and y position
         position.x = position.x + speed * horizontal * Time.deltaTime;
         position.y = position.y + speed * vertical * Time.deltaTime;
-
 
         //Set the updated position
         rigidbody2d.MovePosition(position);
